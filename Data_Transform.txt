@@ -1,0 +1,7 @@
+*Data_Transfrom*
+
+<Inicio>
+//Ejecución de reglas de negocio del ETL
+1. Reemplace valores in ('NULL', '','-') en '0'
+2. Considere la variable fecha de compra > 2025
+<Inicio>
