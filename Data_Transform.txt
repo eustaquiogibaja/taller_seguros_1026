@@ -5,6 +5,7 @@
 1. Reemplace valores in ('NULL', '','-') en '0'
 2. Considere la variable fecha de compra > 2025
 3. Considere los equipos in ('Iphone','Samsun','Nokia','Xiomi','LG')
-4. Considere las tiendas in ('Miraflores','Cercado de Lima')
+4. Considere las tiendas in ('Miraflores','Cercado de Lima','Breña')
 5. Considere Equipos con  ('SIM_1','SIM_2')
+6. Considere Equipos con costo > S/ 10000
 <Inicio>
