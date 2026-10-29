@@ -1,0 +1,7 @@
+*Data_Read*
+
+<Inicio>
+//Ejecución de Lectura de los DataSet
+1. Conctarse con la ruta : C/archivos/Dataset-Asegurados
+2. Conectarse con la BD: ruta Oracle - nombre de la tabla
+<Fin>
